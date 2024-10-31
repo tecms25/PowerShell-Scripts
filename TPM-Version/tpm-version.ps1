@@ -1,0 +1,1 @@
+wmic /namespace:\\root\CIMV2\Security\MicrosoftTpm path Win32_Tpm get /value
